@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dashboard React + Vite
 
 Este proyecto es un dashboard moderno construido con React y Vite.
@@ -23,3 +24,6 @@ Este proyecto es un dashboard moderno construido con React y Vite.
 
 ## Personalización
 Puedes agregar más widgets, gráficas y páginas según tus necesidades en la carpeta `src/components`.
+=======
+# General-Enerwaste
+>>>>>>> 7269f1498cfe2e0802feeb32e53a7b42f0297f55
