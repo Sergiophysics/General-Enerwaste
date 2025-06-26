@@ -1,0 +1,33 @@
+.sidebar {
+  width: 220px;
+  background: #222e3c;
+  color: #fff;
+  height: 100vh;
+  padding: 2rem 1rem;
+  position: fixed;
+  left: 0;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.sidebar h2 {
+  margin: 0 0 1rem 0;
+  font-size: 1.5rem;
+}
+.sidebar nav ul {
+  list-style: none;
+  padding: 0;
+}
+.sidebar nav ul li {
+  margin-bottom: 1rem;
+}
+.sidebar nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.1rem;
+  transition: color 0.2s;
+}
+.sidebar nav ul li a:hover {
+  color: #4fd1c5;
+}
