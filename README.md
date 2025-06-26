@@ -1,29 +1,24 @@
-<<<<<<< HEAD
-# Dashboard React + Vite
+## Requisitos previos
 
-Este proyecto es un dashboard moderno construido con React y Vite.
-
-## Características
-- Navegación lateral
-- Widgets de ejemplo (usuarios, reportes, configuración)
-- Estructura lista para agregar más componentes y gráficas
-
-## Scripts
-- `npm run dev`: Ejecuta el servidor de desarrollo
-- `npm run build`: Compila la aplicación para producción
+- Node.js ≥ 16.x
+- npm ≥ 8.x (o Yarn ≥ 1.22.x)
+- Git
 
 ## Instalación
-1. Instala las dependencias:
-   ```sh
-   npm install
-   ```
-2. Inicia el servidor de desarrollo:
-   ```sh
-   npm run dev
-   ```
 
-## Personalización
-Puedes agregar más widgets, gráficas y páginas según tus necesidades en la carpeta `src/components`.
-=======
-# General-Enerwaste
->>>>>>> 7269f1498cfe2e0802feeb32e53a7b42f0297f55
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/react-dashboard.git
+   cd react-dashboard
+
+    ## instala dependencias
+
+   npm install
+# o
+yarn install
+
+## Inicia Servidor 
+npm start
+# o
+yarn start
+   
